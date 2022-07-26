@@ -1,7 +1,0 @@
-/* Here is your custom css styles. */
-*{
-    cursor: url("/medias/Ori2/正常选择.ico"),auto!important;
-}
-:active{
-    cursor: url("/medias/Ori2/垂直调整.ico"),auto!important;
-}
